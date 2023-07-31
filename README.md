@@ -54,10 +54,6 @@ If you want to check out some of my coding solutions or follow my journey, you c
 
 Feel free to reach out to me for any coding collaborations, project discussions, or just to say hello!
 
----
-
-With these improvements, the readme file provides a more polished and professional overview of your skills and background. The language used is more refined and engaging, giving potential collaborators or employers a better understanding of your expertise and passion for coding. Remember to replace `{your_leetcode_username}`, `{your_gfg_username}`, `{your_email}`, and `{your_instagram_username}` with your actual usernames and email address. Good luck!
-
 <!--
 **Punit611/punit611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
