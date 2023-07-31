@@ -52,7 +52,7 @@ If you want to check out some of my coding solutions or follow my journey, you c
 - [<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="180" height="30">](https://leetcode.com/monesehrawat423)
 - [Gmail](mailto:{your_email}@gmail.com)
 - [<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png" alt="GeeksforGeeks" width="40" height="30">](https://auth.geeksforgeeks.org/user/{your_gfg_username}/practice/)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" alt="Gmail" width="40" height="30">](mailto:{your_email}@gmail.com)
+- [<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail" width="100" height="30">](mailto:{your_email}@gmail.com)
 - [Instagram](https://www.instagram.com/{your_instagram_username}/)
 
 Feel free to reach out to me for any coding collaborations, project discussions, or just to say hello!
