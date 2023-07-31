@@ -13,43 +13,21 @@ I have a solid understanding of fundamental IT constructs, including DBMS, OOPS,
 Below is a list of some of the languages, frameworks, and tools I am familiar with:
 
 ### Languages:
-- C++
-- C
-- Python
-- JavaScript
+ - C++, C, Python, JavaScript, HTML, CSS, MySQL, Neo4J(Graph database query), JSON and Yaml.  
 
 ### Frameworks:
-- ReactJs
-- React Native
-- Redux
-- NodeJs
-- VisJs
-- Sentry
-- MongoDb
-- Selenium
-- Django
-- Pandas
-- Numpy
+- ReactJs, React Native, Redux, NodeJs, VisJs, Sentry, MongoDb, Selenium, Django, Pandas, Numpy, Matplotlib, scikit-learn.
 
 ### Tools:
-- Git
-- GitHub
-- Postman
-- Firebase
-- AWS
-- Rest APIs
-- Linux
-- Visual Studio Code
-- Pycharm
-- Unity3D (Basic)
+- Git, GitHub, Postman, Firebase, AWS(S3, SQS, SES, IAM,Serverless), Rest APIs, Linux, Visual Studio Code, Pycharm, Unity3D (Basic).
 
 ## Connect with Me
 
 If you want to check out some of my coding solutions or follow my journey, you can find me at the following links:
  ![](https://komarev.com/ghpvc/?username=Punit611)
  [<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode" width="180" height="40">](https://leetcode.com/monesehrawat423)
- [<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="GeeksforGeeks" width="150" height="50">](https://auth.geeksforgeeks.org/user/{your_gfg_username}/practice/)
- [<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail" width="100" height="40">](mailto:{your_email}@gmail.com)
+ [<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="GeeksforGeeks" width="150" height="50">](https://auth.geeksforgeeks.org/user/punitsehrawat423/practice/)
+ [<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail" width="100" height="40">](mailto:punitsehrawat423@gmail.com)
  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/300px-LinkedIn_2021.svg.png" alt="Linkedin" width="120" height="40">](https://www.linkedin.com/in/punit-sehrawat-523a88204)
 
 Feel free to reach out to me for any coding collaborations, project discussions, or just to say hello!
