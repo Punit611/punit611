@@ -4,7 +4,7 @@ Hey there! I'm Punit, a passionate and highly skilled developer currently pursui
 
 ## Professional Background
 
-I take immense pride in my ability to tackle complex coding problems and find innovative solutions. Competitive coding has been an integral part of my learning journey, and I have a proven track record of excelling in various coding competitions. As a LeetCode Knight, I possess exceptional problem-solving abilities and an insatiable hunger for continuous improvement.
+I take immense pride in my ability to tackle complex coding problems and find innovative solutions. Competitive coding has been an integral part of my learning journey, and I have a proven track record of excelling in various coding competitions. As a LeetCode Knight, I possess exceptional problem-solving abilities and an insatiable hunger for continuous improvement.Also, I won a hackathon Tally CodeBrewers organized by Tally solution on unstop out of 3709 total registered students.
 
 ## Skills
 
