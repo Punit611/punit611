@@ -47,7 +47,7 @@ Below is a list of some of the languages, frameworks, and tools I am familiar wi
 
 If you want to check out some of my coding solutions or follow my journey, you can find me at the following links:
 - ![](https://komarev.com/ghpvc/?username=Punit611)
-- [LeetCode](https://leetcode.com/{your_leetcode_username})
+- [](https://leetcode.com/monesehrawat423@gmail.com)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/{your_gfg_username}/practice/)
 - [Gmail](mailto:{your_email}@gmail.com)
 - [Instagram](https://www.instagram.com/{your_instagram_username}/)
